@@ -28,7 +28,7 @@ button {
     cursor: pointer;
 }
 .container {
-    width: 1580px;
+    max-width: 1580px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -176,7 +176,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 340px;
+    min-height: 340px;
     padding: 0px 110px;
 }
 
